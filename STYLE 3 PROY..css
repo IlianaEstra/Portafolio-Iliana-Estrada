@@ -1,0 +1,77 @@
+.Sobremibn{
+  color: white;
+}
+
+.Digitalbn{
+  color: white;
+}
+
+.PinturayDibujobn{
+  color: white;
+}
+
+.Fotografíabn{
+  color: white;
+}
+
+
+
+
+header{
+  background-color: #222;
+ color: white;
+text-align: center;
+width: 100%;
+top: 0;
+  display: flex;
+  align-items: center;
+ }
+
+ nav {
+            width: 100%;
+            top: 0;
+ }
+
+
+ .navbar {
+  z-index: 9999;
+  position: fixed !important;
+  top: 0;
+  width: 100%;
+
+}
+
+
+body {
+  background-color:#222;
+  color: whitesmoke;
+  font-family:Poppins,sans serif;
+text-align: center;
+  padding-top: 80px;
+}
+
+.carousel-item img{
+  height: 1000px;
+  object-fit: contain;
+  background-color: #fff;
+  border: 0px solid #000;
+  border-radius: 10px;
+}
+
+.carousel{
+  max-width:3000 px;
+  margin:0 auto;
+}
+
+footer {
+  background-color: #482813;
+color: white;
+text-align: center;
+padding: 90px;
+}
+
+
+
+
+
+        
